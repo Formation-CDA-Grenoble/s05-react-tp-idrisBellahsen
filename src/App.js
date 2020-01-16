@@ -1,7 +1,9 @@
 import React from 'react';
 
+import {HomePage} from './pages';
+
 export default () =>
-  <div>
-    Tout commence ici!
-  </div>
+
+<HomePage/>
+
 ;
